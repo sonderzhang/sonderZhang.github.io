@@ -12,4 +12,4 @@ I'm now an undergraduate student in UESTC, majoring in Computer Science and Tech
 
 Research Interest: Medical Artificial Intelligence
 
-Contact me at 2020060906023@std.uestc.edu.cn
+Email me at 2020060906023@std.uestc.edu.cn
