@@ -1,4 +1,5 @@
 ---
+permalink: /
 title: "This is the personal web for Sonder Zhang, a learner in mediacl AI"
 excerpt: "About me"
 author_profile: true
